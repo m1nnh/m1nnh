@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://minhyeok-rithm.tistory.com/">
-    <img src="https://user-images.githubusercontent.com/78870076/107885077-7d3f8300-6f3b-11eb-8c24-37a6ce383047.png" width="500">
+    <img src="" width="500">
   </a>
 </p>
 
